@@ -29,6 +29,7 @@
     "packageify": "^0.2.0",
     "qs": "git://github.com/jfromaniello/node-querystring.git#fix_ie7_bug_with_arrays",
     "reqwest": "^1.1.4",
+    "superagent": "^0.21.0",
     "trim": "~0.0.1",
     "winchan": "^0.1.1",
     "xtend": "~2.1.1"
