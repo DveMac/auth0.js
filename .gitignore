@@ -22,6 +22,7 @@ bower_components
 release
 
 .DS_Store
+.idea
 
 build
 example/auth0.js
